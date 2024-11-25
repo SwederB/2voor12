@@ -8,7 +8,7 @@ phonenumber_schelto = "+31653163887" # Schelto
 now = datetime.datetime.now()
 
 # message = "Hello, this is a test message"
-message = "Ik kom nu naar idkafee"
+message = "Ik kom nu naar idkafeee"
 
 time_hour = now.hour
 time_min = now.minute + 1
